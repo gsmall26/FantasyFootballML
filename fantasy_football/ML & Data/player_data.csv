@@ -1,7 +1,0 @@
-player_name,player_age,position,team,games_played,passing_yards,passing_tds,passing_attempts,passing_completions,interceptions,times_sacked,rushing_attempts,rushing_yards,rushing_tds,targets,receptions,receiving_yards,receiving_tds,YAC,fantasy_points
-
-Patrick Mahomes,25,QB,KC,16,4740,38,588,390,6,22,65,308,2,0,0,0,0,0,380
-Christian McCaffrey,24,RB,CAR,16,0,0,0,0,0,0,278,1387,15,142,116,1005,4,510,350
-Michael Thomas,27,WR,NO,16,0,0,0,0,0,0,0,0,0,185,149,1725,9,620,330
-Lamar Jackson,23,QB,BAL,15,3127,36,401,265,9,23,176,1206,7,0,0,0,0,0,0,415
-Derrick Henry,26,RB,TEN,15,0,0,0,0,0,0,303,1540,16,31,18,206,0,40,300
